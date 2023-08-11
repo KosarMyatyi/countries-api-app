@@ -1,6 +1,4 @@
 import CountryCard from '@/components/country-card/CountryCard';
-import Image from 'next/image'
-import Link from 'next/link';
 
 export type Country = {
   name: {
